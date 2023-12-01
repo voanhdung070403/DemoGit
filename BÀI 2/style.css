@@ -1,0 +1,28 @@
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  /* border: 1px solid #dddddd; */
+  text-align: left;
+  padding: 8px;
+}
+
+tr {
+  border: 1px solid #dddddd;
+}
+
+.para {
+  background-color: #F1F1F1;
+}
+
+
+.para1 {
+  background-color: #F1F1F1;
+}
+
+table {
+  margin-top: 53px;
+}

@@ -1,0 +1,15 @@
+.summer {
+    background-color: #009788;
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+
+.para.container {
+    border: 1px solid #DDD;
+    padding: 0;
+}
+
+.full {
+    padding: 80px;
+}
